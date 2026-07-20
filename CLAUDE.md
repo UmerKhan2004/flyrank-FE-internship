@@ -13,3 +13,6 @@ FlyRank Frontend AI Engineering Internship Capstone
 - Use Conventional Commits format
 - Component-based structure
 - Mobile-first design
+
+## AI Tools
+- Claude AI for code review and pair programming
