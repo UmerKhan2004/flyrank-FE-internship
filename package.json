@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.4.0",
+    "react-hook-form": "^7.82.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.2",
+    "jest": "^30.4.2"
+  }
+}
