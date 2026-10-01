@@ -169,14 +169,14 @@ export default function MovieDetailPage() {
 
         {recStatus === "idle" && (
           <button
-            onClick={handleGetRecommendations}
-            className="mt-4 rounded-lg bg-white px-6 py-3 font-semibold text-black 
-                       hover:bg-neutral-200 transition-colors focus:outline-none 
-                       focus:ring-2 focus:ring-white focus:ring-offset-2 
-                       focus:ring-offset-neutral-950"
-          >
-            Get AI Recommendations
-          </button>
+          onClick={handleGetRecommendations}
+          className="mt-4 cursor-pointer rounded-lg bg-white px-6 py-3 font-semibold text-black 
+             hover:bg-neutral-200 transition-colors focus:outline-none 
+             focus:ring-2 focus:ring-white focus:ring-offset-2 
+             focus:ring-offset-neutral-950"
+>
+  Get AI Recommendations
+</button>
         )}
 
         {recStatus === "loading" && (
