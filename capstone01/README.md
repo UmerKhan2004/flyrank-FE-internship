@@ -157,7 +157,7 @@ Next.js App Router was chosen over Pages Router for native Server Component supp
 ## Author
 
 Mohammad Umer Khan
-CS Undergraduate, FAST-NUCES Karachi
+SE Undergraduate, FAST-NUCES Karachi
 FlyRank AI Internship — Front-end AI Engineering Track, July 2026
 GitHub: https://github.com/UmerKhan2004
 LinkedIn: https://linkedin.com/in/mohammadumer21
